@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "All About John Aaron Cabigting",
+    "description": "",
+    "home_page_url": "https://cabsjohn05.github.io/Personal-Website-v2",
+    "feed_url": "https://cabsjohn05.github.io/Personal-Website-v2/feed.json",
+    "user_comment": "",
+    "icon": "https://cabsjohn05.github.io/Personal-Website-v2/media/website/Screenshot_2.png",
+    "author": {
+        "name": "John Aaron Cabigting"
+    },
+    "items": [
+        {
+            "id": "https://cabsjohn05.github.io/Personal-Website-v2/intro-to-my-page.html",
+            "url": "https://cabsjohn05.github.io/Personal-Website-v2/intro-to-my-page.html",
+            "title": "About myself",
+            "summary": "<p>Hi, My name's John Aaron Cabigting, and I made this website so that you can learn more about me!</p>\n<p class=\"msg msg--warning\">Warning: The following information down below is legitimate information, and should not be used in order to leak personal information.</p>\n",
+            "content_html": "<p>Hi, My name's John Aaron Cabigting, and I made this website so that you can learn more about me!</p>\n<p class=\"msg msg--warning\">Warning: The following information down below is legitimate information, and should not be used in order to leak personal information.</p>\n\n<p>Information:<br><br>I am currently 19 years old who is currently reciding in Angeles City Pampanga.</p>\n<p>I am a freshman at AMA University and my course is BSIT (Bachelor of Science in Information Technology)</p>",
+            "author": {
+                "name": "John Aaron Cabigting"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-12-05T21:16:24+08:00",
+            "date_modified": "2024-12-05T21:27:27+08:00"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>All About John Aaron Cabigting</title>
+    <link href="https://cabsjohn05.github.io/Personal-Website-v2/feed.xml" rel="self" />
+    <link href="https://cabsjohn05.github.io/Personal-Website-v2" />
+    <updated>2024-12-05T21:27:27+08:00</updated>
+    <author>
+        <name>John Aaron Cabigting</name>
+    </author>
+    <id>https://cabsjohn05.github.io/Personal-Website-v2</id>
+
+    <entry>
+        <title>About myself</title>
+        <author>
+            <name>John Aaron Cabigting</name>
+        </author>
+        <link href="https://cabsjohn05.github.io/Personal-Website-v2/intro-to-my-page.html"/>
+        <id>https://cabsjohn05.github.io/Personal-Website-v2/intro-to-my-page.html</id>
+
+        <updated>2024-12-05T21:16:24+08:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>Hi, My name's John Aaron Cabigting, and I made this website so that you can learn more about me!</p>
+<p class="msg msg--warning">Warning: The following information down below is legitimate information, and should not be used in order to leak personal information.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Hi, My name's John Aaron Cabigting, and I made this website so that you can learn more about me!</p>
+<p class="msg msg--warning">Warning: The following information down below is legitimate information, and should not be used in order to leak personal information.</p>
+
+<p>Information:<br><br>I am currently 19 years old who is currently reciding in Angeles City Pampanga.</p>
+<p>I am a freshman at AMA University and my course is BSIT (Bachelor of Science in Information Technology)</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://cabsjohn05.github.io/Personal-Website-v2/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://cabsjohn05.github.io/Personal-Website-v2/</loc>
+</url>
+<url>
+<loc>https://cabsjohn05.github.io/Personal-Website-v2/intro-to-my-page.html</loc>
+<lastmod>2024-12-05T21:27:27+08:00</lastmod>
+</url>
+<url>
+<loc>https://cabsjohn05.github.io/Personal-Website-v2/previous-schools-attended.html</loc>
+<lastmod>2024-12-05T21:31:54+08:00</lastmod>
+</url>
+</urlset>
